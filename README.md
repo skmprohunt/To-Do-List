@@ -5,4 +5,4 @@ The Front-end of this website looks as follows:
 ### The application offers various functionalities : 
 - The task can be added simply by writing in the **New Item** space and clicking on **+**
 - The date is refreshed automatically
-- The cmpleted tasks can be marked by clicking on the ** checkbox **
+- The cmpleted tasks can be marked by clicking on the **checkbox**
